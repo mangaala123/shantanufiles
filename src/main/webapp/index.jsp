@@ -6,7 +6,7 @@
 <h1>Cool! you did  it!</h1>
 <img src="lion.png">
 
-<h2>hi this is  mangala and my native pincode is 562123/</h2>
+<h2>hi this is  Namita and my native pincode is 577598/</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
