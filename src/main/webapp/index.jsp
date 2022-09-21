@@ -3,7 +3,7 @@
     <title>Boxfuse Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Cool! you did it!</h1>
+<h1>Cool! you did  it!</h1>
 <img src="lion.png">
 
 <h2>hi this is shanth and my native pincode is 5772/</h2>
